@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/191388655?s=200&v=4" alt="Avatar" style="width:150px; height:150px; border-radius:50%;">
+<img src="public/thebiter-round.png" alt="Avatar" style="width:150px; height:150px; border-radius:50%;">
 </p>
 
 # Michibot Dashboard
