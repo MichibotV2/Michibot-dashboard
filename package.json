@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "docker-build": "docker build -t michibot-dashboard .",
-    "docker-run": "docker run --env-file .env -p 3000:3000 michibot-dashboard",
+    "docker-run": "docker run --env-file .env -p 3001:3001 michibot-dashboard",
     "test": "jest",
     "test:watch": "jest --watch"
   },
